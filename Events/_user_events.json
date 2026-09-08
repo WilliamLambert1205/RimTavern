@@ -1,0 +1,1 @@
+{"events":[{"id":"my_event","title":"导师的老友","opening":"在军营废墟附近有一个自称是导师的老友的黑衣人，要去会会他吗","npc":"any","trigger":"interval","intervalMinHours":8,"intervalMaxHours":1,"afterDialogueWindowHours":24,"afterFlag":"","affinityMin":-101,"affinityMax":101,"cooldownHours":1,"initial":true,"maxTimes":99,"nextIds":[],"setFlagsOnDone":[],"loreKeys":[]}]}

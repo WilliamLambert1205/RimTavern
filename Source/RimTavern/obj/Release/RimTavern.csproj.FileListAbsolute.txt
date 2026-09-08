@@ -1,0 +1,5 @@
+D:\installed\steam\steamapps\common\RimWorld\Mods\RimTavern\Source\RimTavern\obj\Release\RimTavern.csproj.AssemblyReference.cache
+D:\installed\steam\steamapps\common\RimWorld\Mods\RimTavern\Source\RimTavern\obj\Release\RimTavern.GeneratedMSBuildEditorConfig.editorconfig
+D:\installed\steam\steamapps\common\RimWorld\Mods\RimTavern\Source\RimTavern\obj\Release\RimTavern.csproj.CoreCompileInputs.cache
+D:\installed\steam\steamapps\common\RimWorld\Mods\RimTavern\1.6\Assemblies\RimTavern.dll
+D:\installed\steam\steamapps\common\RimWorld\Mods\RimTavern\Source\RimTavern\obj\Release\RimTavern.dll
